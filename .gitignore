@@ -1,0 +1,9 @@
+# Python Bytecode
+*.pyc
+__pycache__/
+
+# Environment Variables
+.env
+
+# Hidden directory for storing keys
+.cred/
